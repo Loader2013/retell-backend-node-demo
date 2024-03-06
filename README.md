@@ -22,16 +22,16 @@ Check this [Youtube Tutorial](https://youtu.be/Tz969io9cPc?feature=shared&t=344)
 3. Install dependencies
 
 ```bash
-npm install
-```
-
-3. In another bash, use ngrok to expose this port to the public network
 
 ```bash
 ngrok http 8080
 ```
 
-4. Start the server
+4. Start the servernpm install
+```
+
+3. In another bash, use ngrok to expose this port to the public network
+
 
 ```bash
 npm run dev
